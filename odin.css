@@ -1,0 +1,150 @@
+body{
+    background-color: powderblue;
+    height:100vh;
+    overflow: hidden;
+}
+form{
+    position: absolute;
+}
+#img-sec{
+    position: relative;
+}
+#img-sec img{
+    height: 100vh;
+    width: 40vw;
+    position:relative;
+    left: 10vw;
+    top:-10px;
+}
+.odin{
+    position: relative;
+    height: 20vh;
+    width: 40vw;
+    background-color:#8888;
+    left:10vw;
+    top: -80vh;
+}
+#new-odin img{
+    height:12vh;
+    width: 6vw;
+    position:relative;
+    top:20px;
+}
+.twilight{
+    position: relative;
+    color: whitesmoke;
+    left: 17vw;
+    font-weight: 900px;
+    font-size: 70px;
+    font-family: url(./Norse-Bold.otf);
+    top:-65px;
+
+}
+.part{
+    height: 100vh;
+    width: 40vw;
+    background-color: black;
+    top:-125vh;
+    left: 50vw;
+    position: relative;
+}
+.part1 h3{
+    color: lightblue;
+    font-size: 20px;
+    font-weight: 500px;
+    padding: 10px 10px;
+}
+.part2 h3{
+    color: lightblue;
+    font-size: 20px;
+    font-weight: 500px;
+    padding-left: 10px;
+    margin-top: -40px;
+
+}
+.part3 h3{
+    color: lightblue;
+    font-size: 20px;
+    font-weight: 500px;
+    padding-left: 10px;
+}
+.fillform{
+    display:flexbox;
+    background-color: #1118;
+    height: 40vh;
+    width: 40vw;
+    margin-top: 12vh;
+}
+h4{
+    color: lightblue;
+    font-size: 20px;
+    font-weight: 300px;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+.form2{
+    padding-left: 10px;
+    margin-top: 10px;
+}
+label{
+    color: lightblue;
+    margin-top: 10px;
+    position: relative;
+}
+#fname{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#email{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#password{
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+.right{
+    display: flex;
+    float: right;
+    margin-top: 3vh;
+    margin-right: 18vw;
+    
+}
+.form3{
+    margin-top: -14px;
+}
+#lname{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#number{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+input{
+    background-color:#1118;
+    border: 1px solid lightblue;
+    color: aqua;
+}
+button{
+    margin-top: 35vh;
+    margin-left: 10px;
+    padding: 10px 50px;
+    border: none;
+    border-radius: 10px;
+    background-color: lightblue;
+}
+h5{
+    color: lightblue;
+    font-size: 15px;
+    font-weight: 200px;
+    padding-left: 10px;
+
+}
+a{
+    color: lightblue;
+    font-size: 15px;
+    font-weight: 200px;
+
+}
